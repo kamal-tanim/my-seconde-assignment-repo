@@ -9,3 +9,12 @@
   background-color:rgb(234, 247, 250);
 
 }
+#bg1{
+    background-image: url(../assets/deal-bloom.png);
+}
+#bg2{
+    background-image: url(../assets/deal-ana.png);
+}
+#bg3{
+    background-image: url(../assets/deal-zabo.png);
+}
